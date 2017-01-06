@@ -12,6 +12,8 @@
 1. Status aller Tasks in Thalamus überprüfen und sicherstellen alle Tasks geschlossen
 1. Site Titel und Tagline eintragen
 1. Yoast SEO für Seiten prüfen
+1. Testing Formulare
+1. Testing Suchfelder und Ergebnisse
 
 # Beim GoLive
 1. Kunde benachrichtigen, dass Go Live Prozesse gestartet worden sind.
@@ -19,8 +21,10 @@
 1. WordPress-Adresse (URL) anpassen
 1. Wenn nötig URLs mit Hilfe 'Go Live Update URLs' PLugin aktualisieren
 1. Wenn nötig Verlinkungen manuell anpassen
-1. Testing Desktop, Mobile und Tablet 
-1. Formulare testen
+1. Testing Darstellung: Desktop, Mobile und Tablet 
+1. Testing Navigation und Verlinkungen
+1. Testing Formulare
+1. Testing Suchfelder und Ergebnisse
 
 # Nach dem GoLive
 1. Kunden benachrichtigen, dass die Seite live ist und Feedback zu Bugs/Anpassungen
